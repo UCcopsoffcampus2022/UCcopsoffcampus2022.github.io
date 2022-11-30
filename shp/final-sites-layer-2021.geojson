@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "final-sites-layer-2021",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "Chancellor's Residence" }, "geometry": { "type": "Point", "coordinates": [ -118.442206782479857, 34.076389575642089 ] } },
+{ "type": "Feature", "properties": { "id": 1, "name": "Faculty Center" }, "geometry": { "type": "Point", "coordinates": [ -118.439230027829979, 34.070307620424607 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Harbor-UCLA Medical Center" }, "geometry": { "type": "Point", "coordinates": [ -118.294786282771199, 33.82986072674899 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Jackie Robinson Stadium" }, "geometry": { "type": "Point", "coordinates": [ -118.459335721152897, 34.059294355476361 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "UCPD Station" }, "geometry": { "type": "Point", "coordinates": [ -118.445422179624813, 34.067315053602002 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Kerckhoff Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.443574675513801, 34.070399184692306 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Theta Xi" }, "geometry": { "type": "Point", "coordinates": [ -118.44869438904631, 34.067449267828927 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "UCLA Basketball National Championship Celebration" }, "geometry": { "type": "Point", "coordinates": [ -118.447990102859364, 34.061962455675115 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Fielding School of Public Health" }, "geometry": { "type": "Point", "coordinates": [ -118.443632867251694, 34.06671623477034 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "David Cunningham Incident" }, "geometry": { "type": "Point", "coordinates": [ -118.447118906294946, 34.061086426564763 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Claudius Gaines Incident" }, "geometry": { "type": "Point", "coordinates": [ -118.450538614349156, 34.065668369289583 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Murphy Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.438771087790514, 34.071625848512625 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "School of Law" }, "geometry": { "type": "Point", "coordinates": [ -118.438475371685001, 34.072942489268087 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Haines Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.441172020932825, 34.072872080671537 ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Luskin School of Public Affairs" }, "geometry": { "type": "Point", "coordinates": [ -118.439165375931182, 34.074361222488534 ] } },
+{ "type": "Feature", "properties": { "id": 15, "name": "Royce Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.442177103648589, 34.072831595728502 ] } },
+{ "type": "Feature", "properties": { "id": 16, "name": "Powell Library" }, "geometry": { "type": "Point", "coordinates": [ -118.442191185367903, 34.071643450661746 ] } },
+{ "type": "Feature", "properties": { "id": 17, "name": "Janss Steps" }, "geometry": { "type": "Point", "coordinates": [ -118.443193777213494, 34.072197951571191 ] } },
+{ "type": "Feature", "properties": { "id": 18, "name": "Drake Stadium" }, "geometry": { "type": "Point", "coordinates": [ -118.448276347959478, 34.071978622150638 ] } },
+{ "type": "Feature", "properties": { "id": 21, "name": "Campbell Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.441200565300534, 34.073704931919039 ] } }
+]
+}
